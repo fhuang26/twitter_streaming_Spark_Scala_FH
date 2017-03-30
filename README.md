@@ -1,5 +1,5 @@
 
-# Twitter Tweets Sentiment Analysis by Spark Streaming with Scala             Felix Huang
+# Twitter Tweets Sentiment Analysis by Spark Streaming with Scala
      to leverage Spark Streaming component to consume Twitter data and perform sentiment analysis on it.
        
  *   For each tweet, break the message into tokens, then remove punctuation marks and stop words.
